@@ -19,7 +19,7 @@
 
 ---
 
-### ⚡ **Coding & Engineering Fun**  
+### ⚡ **The Fun Side of Code**  
 > "First, solve the problem. Then, write the code.  
 > And finally, wonder why it doesn’t work anyway! 🤷‍♂️"  
 
