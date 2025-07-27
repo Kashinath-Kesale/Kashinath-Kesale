@@ -12,7 +12,7 @@
 ---
 
 ### 🔥 **Tech Stack**  
-**Languages:** Java, JavaScript, Python  
+**Languages:** Java, JavaScript  
 **Web Development:** React.js, Node.js, Express.js, REST APIs  
 **Databases:** MongoDB, MySQL, SQL  
 **Tools:** Git, GitHub, Docker, Postman, VS Code 
