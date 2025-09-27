@@ -3,7 +3,7 @@
 🚀 **Aspiring Software Engineer | Full-Stack Developer | DSA Enthusiast**  
 
 - 💻 **I build:** Scalable web apps and robust backend systems that don’t crash (at least most of the time 😄).  
-- 🌱 **Currently learning:** Advanced JavaScript, Backend optimizations, and Cloud deployment (Docker).  
+- 🌱 **Currently learning:** Advanced TypeScript, Backend optimizations, and Cloud deployment (Docker).  
 - 👀 **Interested in:** Full-stack development, open-source, and solving real-world problems.
 - 💡 **Looking to collaborate on:** Innovative web projects, full-stack applications, and backend tools.   
 - 📫 **How to reach me:**  
