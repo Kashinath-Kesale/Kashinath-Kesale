@@ -13,7 +13,7 @@
 
 ### 🔥 **Tech Stack**  
 **Languages:** Java, JavaScript, TypeScript  
-**Web Development:** React.js, Node.js, Express.js, Nest.js, REST APIs  
+**Web Development:** Nest.js, Node.js, Express.js, React.js, REST APIs  
 **Databases:** PostgreSQL, MongoDB, MySQL, SQL  
 **Tools:** Git, GitHub, Docker, Postman, VS Code 
 
