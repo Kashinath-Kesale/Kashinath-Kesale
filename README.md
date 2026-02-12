@@ -3,7 +3,7 @@
 🚀 **Aspiring Software Engineer | Full-Stack Developer | DSA Enthusiast**  
 
 - 💻 **I build:** Scalable web apps and robust backend systems that don’t crash (at least most of the time 😄).  
-- 🌱 **Currently learning:** Advanced TypeScript, Backend optimizations, and Cloud deployment (Docker).  
+- 🌱 **Currently learning:** TypeScript, Backend optimizations, and Cloud deployment (Docker).  
 - 👀 **Interested in:** Full-stack development, open-source, and solving real-world problems.
 - 💡 **Looking to collaborate on:** Innovative web projects, full-stack applications, and backend tools.   
 - 📫 **How to reach me:**  
@@ -13,7 +13,7 @@
 
 ### 🔥 **Tech Stack**  
 **Languages:** Java, JavaScript, TypeScript  
-**Web Development:** Nest.js, Node.js, Express.js, React.js, REST APIs  
+**Web Development:** Nest.js, Node.js, Express.js, Next.js, React.js, REST APIs  
 **Databases:** PostgreSQL, MongoDB, MySQL, SQL  
 **Tools:** Git, GitHub, Docker, Postman, VS Code 
 
