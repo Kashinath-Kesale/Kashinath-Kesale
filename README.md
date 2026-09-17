@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kashinath Kesale  
 
-🚀 **Aspiring Software Engineer | Full-Stack Developer | DSA Enthusiast**  
+🚀 **Software Engineer | Backend Developer | DSA Enthusiast**  
 
 - 💻 **I build:** Scalable web apps and robust backend systems that don’t crash (at least most of the time 😄).  
 - 🌱 **Currently learning:** TypeScript, Backend optimizations, and Cloud deployment (Docker).  
@@ -13,7 +13,7 @@
 
 ### 🔥 **Tech Stack**  
 **Languages:** Java, JavaScript, TypeScript  
-**Web Development:** Nest.js, Node.js, Express.js, Next.js, React.js, REST APIs  
+**Web Development:** NestJS, Node.js, Express.js, Next.js, React, REST APIs  
 **Databases:** PostgreSQL, MongoDB, MySQL, SQL  
 **Tools:** Git, GitHub, Docker, Postman, VS Code 
 
